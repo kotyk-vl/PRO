@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\vlad kotyk\desktop\laba4\laba4\source.cpp(381): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\vlad kotyk\desktop\laba4\laba4\source.cpp(396): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\vlad kotyk\desktop\laba4\laba4\source.cpp(391): warning C4101: Start: неиспользованная локальная переменная
+c:\users\vlad kotyk\desktop\laba4\laba4\source.cpp(391): warning C4101: Finish: неиспользованная локальная переменная
+c:\users\vlad kotyk\desktop\laba4\laba4\source.cpp(391): warning C4101: Duration: неиспользованная локальная переменная
+  Laba4.vcxproj -> C:\Users\Vlad Kotyk\Desktop\Laba4\Debug\Laba4.exe
